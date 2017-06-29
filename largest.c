@@ -9,4 +9,5 @@ else if(b>c)
 printf("\n%d is larger",b);
 else
 printf("\n%d is larger",c);
+return 0;
 }
